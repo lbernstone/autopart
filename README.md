@@ -1,0 +1,1 @@
+This sketch will create a partition at the end of the included partition table to automatically fill all the available space.  This should allow you to make a "universal" image for all possible flash chip sizes.
